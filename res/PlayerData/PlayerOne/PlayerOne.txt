@@ -1,0 +1,8 @@
+1 PlayerData/PlayerOne/Idle/ 10
+2 PlayerData/PlayerOne/Run/ 8
+3 PlayerData/PlayerOne/Run/ 8 yes
+4 PlayerData/PlayerOne/Jump/ 10
+5 PlayerData/PlayerOne/Jump/ 10 yes
+6 PlayerData/PlayerOne/Shoot/ 3
+7 PlayerData/PlayerOne/Shoot/ 3 yes
+8 PlayerData/PlayerOne/Die/ 10

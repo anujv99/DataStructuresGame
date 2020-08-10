@@ -1,0 +1,6 @@
+MainMenuMask 0 0 1 1
+MainMenuBackground 0 0 0.75 1
+MainMenuButtons 0 0 0.5 0.75
+PlayPressed 0 0 0.5 0.75 yes 617 980 550 654 PLAY
+SettingsPressed 0 0 0.5 0.75 yes 617 980 405 507 LEVEL
+ExitPressed 0 0 0.5 0.75 yes 617 980 270 360 EXIT

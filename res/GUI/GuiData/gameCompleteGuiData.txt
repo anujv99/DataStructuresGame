@@ -1,0 +1,3 @@
+GameComplete 0 0 0.65 1
+RestartGame 0 0 0.65 1 yes 655 933 466 554 RESTART_GAME
+ExitPressedBlue 0 0 0.65 1 yes 655 933 342 420 EXIT

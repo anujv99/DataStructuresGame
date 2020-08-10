@@ -1,0 +1,5 @@
+-0.9 0.2 -1.5 0.12 -0.5 -1
+1 levelData/LevelTwoRes/EnemyPlayer/Run/ 10
+2 levelData/LevelTwoRes/EnemyPlayer/Run/ 10 yes
+3 levelData/LevelTwoRes/EnemyPlayer/Die/ 12
+4 levelData/LevelTwoRes/EnemyPlayer/Die/ 12 yes

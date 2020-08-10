@@ -1,0 +1,4 @@
+MainMenuMask 0 0 1 1
+LevelSelectorMain 0 0 0.5 1
+NextPressed 0 0 0.5 1 yes 619 785 63 118 NEXT
+SelectPressed 0 0 0.5 1 yes 820 986 63 118 SELECT

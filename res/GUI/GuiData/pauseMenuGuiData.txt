@@ -1,0 +1,7 @@
+MainMenuMask 0 0 1 1
+PauseMenuBackground 0 0 0.75 1
+PauseMenuButtons 0 -0.15 0.5 0.75
+ResumePressed 0 -0.15 0.5 0.75 yes 615 982 565 655 RESUME
+SettingsPressedPauseMenu 0 -0.15 0.5 0.75 yes 615 982 420 515 LEVEL
+RestartLevelPressed 0 -0.15 0.5 0.75 yes 615 982 275 368 RESTART
+ExitPressedPauseMenu 0 -0.15 0.5 0.75 yes 615 982 125 221 EXIT

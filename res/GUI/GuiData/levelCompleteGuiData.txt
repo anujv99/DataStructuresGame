@@ -1,0 +1,3 @@
+LevelCompleteBackground 0 0 0.65 1
+NextLevelPressed 0 0 0.65 1 yes 655 933 466 554 NEXT_LEVEL
+ExitPressedBlue 0 0 0.65 1 yes 655 933 342 420 EXIT
