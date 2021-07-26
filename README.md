@@ -13,7 +13,8 @@ The game has two levels and to finish a level you must kill all the zombies with
 
 Some features of the game:
 
-- Build completely from scratch using LWJGL2 library which provide OpenGL binding for Java and helper classes like math and audio.
+- Build completely from scratch using LWJGL2 library which provide OpenGL binding for Java and helper classes for math and audio.
+- Graphics using OpenGL 3.3
 - Custom GUI handler which uses linked list to iterate through the GUI nodes and process them accordingly.
 - Custom collision detector and handler.
 - Audio using OpenAL.
@@ -21,7 +22,7 @@ Some features of the game:
 
 I created the game really early when I started programming and because of that the architecture of the project is not that great. Although the game does have some level of abstraction between the game itself and the game engine component, the code cannot be used to build any other game. The collision detection and response code is mingled with other components such as audio and rendering. Another issue is that the positions for entities are in screen space, so resizing the window messes up the layout.
 
-Apart from the technical errors, it is a complete game and can be played till completion.
+Apart from the technical errors, it is a complete game and can be played till completion. The project was possible because of the amazing OpenGL series by [ThinMatrix](https://www.youtube.com/user/ThinMatrix).
 
 #### To run the project follow the steps:
 
@@ -40,7 +41,6 @@ The project was tested and built using IntelliJ Idea under the Windows operating
 -  Note: If you do not want to use IntelliJ Idea for any reason then the basic gist of building is to link the libraries in the `lib/jar` and `lib/natives` folder and use JDK version 14 to build and run the project.
 
 #### Gameplay
-
 The recorded gameplay can be viewed at: [link](https://www.youtube.com/watch?v=2hd3ng6bd7g)
 
 [![Gampelay](https://img.youtube.com/vi/2hd3ng6bd7g/0.jpg)](https://www.youtube.com/watch?v=2hd3ng6bd7g)
